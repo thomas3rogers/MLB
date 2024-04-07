@@ -37,7 +37,8 @@ import storage.PitchingStats;
  */
 
 public class Main {
-	
+	//Thomas Rogers
+	System.out.println("Thomas added this");
 	// Constants
 	private static final String baseURL = "http://sports.snoozle.net/api";
 	private static final SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
